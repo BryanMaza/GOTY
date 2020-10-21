@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestoregrafics": {
+      "hosting": {
+        "FirebaseFinal": [
+          "firestoregrafics"
+        ]
+      }
+    }
+  }
+}
